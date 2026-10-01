@@ -1,0 +1,9 @@
+metric,value
+baseline_average_risk,0.1348691767708998
+candidate_risk,0.02
+robustness_mean_risk,0.022056666666666665
+robustness_median_risk,0.016666666666666666
+robustness_p10_risk,0.006666666666666667
+robustness_p90_risk,0.04666666666666667
+robustness_max_risk,0.15333333333333332
+candidate_distance_percentile,16.520351157222667

@@ -1,0 +1,5 @@
+assumption,value
+annual_units,100000.0
+cost_per_failure,500.0
+historical_failure_rate,0.06636885768985322
+illustrative_baseline_failure_cost,3318442.884492661

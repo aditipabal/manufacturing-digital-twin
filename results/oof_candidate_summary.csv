@@ -1,0 +1,6 @@
+metric,value
+baseline_average_risk,0.1348691767708998
+oof_candidate_risk,0.02
+relative_risk_change_pct,-85.17081480079493
+nearest_historical_distance,0.7800833968789876
+distance_percentile,16.520351157222667
